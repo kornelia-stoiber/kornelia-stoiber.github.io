@@ -1,2 +1,2 @@
 # kornelia-stoiber.github.io
-Website
+Website on GitHub Pages.
