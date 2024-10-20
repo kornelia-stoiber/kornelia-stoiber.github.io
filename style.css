@@ -2,7 +2,7 @@ body {
   background-color: #D8F6FE;
 }
 
-h1 {
-  color: #91DDE5;
+div.site {
+  color: #91DDE5
   margin-left: 20px;
 }
