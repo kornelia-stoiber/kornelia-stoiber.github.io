@@ -12,7 +12,7 @@ body {
   font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
-.button {
+button {
   background-color: #91DDE5;
   color: #FFFFFF;
   text-align: center;
