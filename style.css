@@ -5,6 +5,7 @@ body {
 .site {
   margin: 20px;
   padding: 20px;
+  border-width: 1px;
   border-color: #FFFFFF;
   border-style: dotted;
   background-color: #D8F6FE;
