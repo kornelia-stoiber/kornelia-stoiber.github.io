@@ -15,4 +15,8 @@ body {
 .button {
   background-color: #91DDE5;
   color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
 }
