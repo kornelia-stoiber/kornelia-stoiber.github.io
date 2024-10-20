@@ -1,7 +1,11 @@
 body {
-  background-color: #D8F6FE;
+  background-color: #91DDE5
 }
 
 .site {
-  margin-left: 20px;
+  margin: 20px;
+  padding: 20px;
+  border-color: #D8F6FE;
+  border-style: dotted;
+  background-color: #D8F6FE;
 }
