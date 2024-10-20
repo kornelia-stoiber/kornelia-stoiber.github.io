@@ -7,6 +7,6 @@ body {
   padding: 20px;
   border-width: 1px;
   border-color: #FFFFFF;
-  border-style: dotted;
+  /* border-style: dotted; */
   background-color: #D8F6FE;
 }
